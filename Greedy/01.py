@@ -1,3 +1,5 @@
+# Algorithm_Greedy_01
+
 n = int(input())
 count = 0
 
